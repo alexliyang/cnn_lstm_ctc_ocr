@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\360downloads\\face\\cnn_lstm_ctc_ocr\\output\\lstm_ctc\\lstm_ctc_iter_100.ckpt"
+all_model_checkpoint_paths: "D:\\360downloads\\face\\cnn_lstm_ctc_ocr\\output\\lstm_ctc\\lstm_ctc_iter_100.ckpt"
